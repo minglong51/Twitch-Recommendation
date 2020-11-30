@@ -19,7 +19,6 @@ import java.util.Arrays;
 import java.util.List;
 
 
-
 public class TwitchClient {
     private static final String TOKEN = "Bearer pj5svw4bfwppglu57rv11g5c9z2awy";
     private static final String CLIENT_ID = "uu88rd6bo4o4dx4pdhthovfdlij79o";
