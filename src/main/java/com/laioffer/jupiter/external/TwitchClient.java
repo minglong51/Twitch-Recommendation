@@ -21,7 +21,7 @@ import java.util.List;
 
 public class TwitchClient {
     
-    #use token and client id for authenication
+    //use token and client id for authenication
     private static final String TOKEN = "Bearer pj5svw4bfwppglu57rv11g5c9z2awy";
     private static final String CLIENT_ID = "uu88rd6bo4o4dx4pdhthovfdlij79o";
     private static final String TOP_GAME_URL_TEMPLATE = "https://api.twitch.tv/helix/games/top?first=%s";
