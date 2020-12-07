@@ -9,7 +9,7 @@ public class FavoriteRequestBody {
     //new a favorite request body
     //JsonCreator (for constructor) has similar meaning as JsonDeserialize(for builder pattern)
     //use @JsonProperty only convert json(favorite) to Item
-    //if use it above favorite Item, we can still convert it back from object to jason
+    //if putting @JsonPoperty above favorite Item, we can still convert it back from object to jason
     @JsonCreator
     public FavoriteRequestBody(@JsonProperty("favorite") Item favoriteItem) {
         this.favoriteItem = favoriteItem;
