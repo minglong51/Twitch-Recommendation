@@ -1,7 +1,13 @@
 /Users/minglongpan/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/entity/Game.java
-/Users/minglongpan/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/external/TwitchException.java
+/Users/minglongpan/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/db/MySQLTableCreator.java
+/Users/minglongpan/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/servlet/FavoriteServlet.java
 /Users/minglongpan/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/servlet/SearchServlet.java
-/Users/minglongpan/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/entity/Item.java
 /Users/minglongpan/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/external/TwitchClient.java
+/Users/minglongpan/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/db/MySQLConnection.java
+/Users/minglongpan/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/external/TwitchException.java
+/Users/minglongpan/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/entity/Item.java
+/Users/minglongpan/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/db/MySQLException.java
+/Users/minglongpan/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/entity/FavoriteRequestBody.java
 /Users/minglongpan/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/servlet/GameServlet.java
 /Users/minglongpan/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/entity/ItemType.java
+/Users/minglongpan/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/db/MySQLDBUtil.java
